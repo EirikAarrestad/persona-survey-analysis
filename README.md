@@ -2,7 +2,7 @@
 
 En språkmodell har svart på 62 spørsmål *som om den var* hver av 10 000 kjente personer og fiktive figurer. Prosjektet undersøker hva svarene sier om språkmodellens bilde av historien, og om svarene alene kan predikere **når personen levde** og **hva personen drev med**.
 
-Sluttprosjekt i **INF161 – Data Science** ved Universitetet i Bergen, høsten 2026. Hele rapporten ligger i `rapport3_final.pdf`.
+Sluttprosjekt i **INF161 – Data Science** ved Universitetet i Bergen, høsten 2026. Hele rapporten ligger i `rapport_prosjekt.pdf`.
 
 ## Resultater
 
