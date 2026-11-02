@@ -13,13 +13,6 @@ Final project in **INF161 – Data Science** at the University of Bergen (autumn
 | **A:** birth year (regression) | Random Forest on all answers, text via TF-IDF (300 most common words) | MAE **285 years**, median error 94 years | MAE 452 years, median error 90 years |
 | **B:** occupation category (10 classes) | Logistic regression (C = 1) on all answers, text via TF-IDF | Balanced accuracy **0.692**, macro-F1 0.662 | Balanced accuracy 0.100 |
 
-Models were chosen on the validation set. The test set was used once per task.
-
-<p align="center">
-  <img src="img/regresjon_pred_vs_faktisk.png" width="48%" alt="Predicted vs actual birth year">
-  <img src="img/forvekslingsmatrise.png" width="48%" alt="Confusion matrix for occupation category">
-</p>
-
 ## Data
 
 `persona_survey.csv` has 10,000 rows and 74 columns: 9,000 real people from the Pantheon database and 1,000 fictional characters. The 62 answer columns cover Big Five personality, the political compass, morality and belief, personal preferences, "moral exchange rates" and seven free-text answers. Ground-truth columns include birth year, occupation and gender.
