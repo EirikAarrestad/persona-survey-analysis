@@ -36,7 +36,7 @@ pip install -r requirements.txt
 jupyter notebook main.ipynb
 ```
 
-Legg `persona_survey.csv` i samme mappe som notebooken. Datasettet er gitt i emnet og er ikke med i repoet.
+Legg `persona_survey.csv` i samme mappe som notebooken.
 
 ## Forfatter
 
